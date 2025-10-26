@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **khoald1110@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-<br>🔭 I’m currently working on **Spring Boot backend projects**, focusing on building scalable REST APIs and JWT-based authentication systems.<br><br>🤝 I’m looking to collaborate on **open-source or student-driven platforms** related to backend development, cultural tech, or AI tools.<br><br>🧠 I’m currently learning **Spring Security, MongoDB Atlas, and AWS S3 integration**.<br><br>💬 Ask me about **backend architecture, API design, and project documentation** — I love discussing clean code and system design!<br><br>⚡ Fun fact: I started as a content & marketing intern before diving into backend development — now I enjoy combining logic with creativity in every project I build.<br>
+<br>🔭 I’m currently working on **Spring Boot backend projects**, focusing on building scalable REST APIs and JWT-based authentication systems.<br><br>🤝 I’m looking to collaborate on **open-source or student-driven platforms** related to backend development, cultural tech, or AI tools.<br><br>🧠 I’m currently learning **Spring Security, MongoDB Atlas, and AWS S3 integration**.<br><br>💬 Ask me about **backend architecture, API design, and project documentation** - I love discussing clean code and system design!<br><br>⚡ Fun fact: I started as a content & marketing intern before diving into backend development - now I enjoy combining logic with creativity in every project I build.<br>
 
 
 ## 🌐 Socials:
